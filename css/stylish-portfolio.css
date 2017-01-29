@@ -171,12 +171,14 @@ hr.small {
 
 /* About */
 
-.about {
+.growthtribe {
     padding: 50px 0;
 }
 
-.aboutme {
-    margin-top: 75px;
+.reasons {
+    margin-top: 25px;
+    text-decoration: none;
+    
     
 }
 
@@ -203,6 +205,9 @@ hr.small {
 
 .portfolio-item {
     margin-bottom: 30px;
+    width: 7em;
+    height: 5em;
+    
 }
 
 .img-portfolio {
