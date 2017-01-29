@@ -162,10 +162,11 @@ hr.small {
     -o-background-size: cover;
     color: white;
     border-style: double;
-    border: 10px;
+    border: 1rem;
     border-color: white;
     border-right: none;
     border-left: none;
+    opacity: 0.9;
 }
 
 /* About */
