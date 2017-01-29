@@ -68,7 +68,7 @@ hr.small {
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
-    left: 0;
+    right: 0;
     width: 250px;
     height: 100%;
     transform: translateX(250px);
@@ -219,22 +219,6 @@ hr.small {
 
 .call-to-action .btn {
     margin: 10px;
-}
-
-/* Map */
-
-.map {
-    height: 500px;
-}
-
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-}
-
-.map iframe {
-    pointer-events: none;
 }
 
 /* Footer */
