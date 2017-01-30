@@ -204,10 +204,11 @@ hr.small {
 }
 
 .portfolio-item {
+    padding-top: 50px;
     margin-bottom: 30px;
-    width: 150px;
-    height: 100px;
-    display: block; 
+    width: 8rem;
+    height: 7rem;
+    display: inline-block; 
     
 }
 
