@@ -169,14 +169,6 @@ hr.small {
     opacity: 0.9;
 }
 
-.title-bg {
-    background-color: lightgrey;
-    left: 0;
-    height: 0.5em;
-    position: absolute;
-    right: 0;
-    top: 0.35em;
-
 /* About */
 
 .growthtribe {
