@@ -184,7 +184,7 @@ hr.small {
     padding-top: 5px;
     float: left;
     list-style: none;
-    display: block;
+    display: inline-block;
     box-sizing: border-box;
 }
 
