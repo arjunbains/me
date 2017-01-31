@@ -186,7 +186,11 @@ hr.small {
     list-style: none;
     display: block;
     box-sizing: border-box;
-    
+}
+
+.heading {
+    padding-bottom: 20px;
+    border: 10px black;
 }
 
 /* Callout */
