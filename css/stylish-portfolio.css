@@ -193,6 +193,7 @@ hr.small {
     display: inline;
     border-style: solid;
     border-width: 5px;
+    float: center;
 }
 
 /* Callout */
