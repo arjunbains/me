@@ -178,10 +178,12 @@ hr.small {
 .reasons {
     margin-top: 25px;
     text-decoration: none;
-    
-    
 }
 
+.gtt {
+    padding-top: 50px;
+    
+}
 
 /* Callout */
 
@@ -214,6 +216,7 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+    overflow: auto;
 }
 
 .img-portfolio:hover {
