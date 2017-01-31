@@ -185,6 +185,7 @@ hr.small {
     float: left;
     list-style: none;
     width: 28%;
+    display: block;
 }
 
 /* Callout */
