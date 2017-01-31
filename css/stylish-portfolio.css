@@ -190,10 +190,8 @@ hr.small {
 
 .heading {
     padding-bottom: 20px;
-    display: inline;
     border-style: solid;
     border-width: 5px;
-    float: center;
 }
 
 /* Callout */
@@ -262,4 +260,22 @@ footer {
   position: fixed;
   bottom: 5px;
   right: 5px;
+}
+
+/*  Media Queries */
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+    .header h3 {
+    display: none;
+    }
+    
+    .growthtribe p {
+        text-align: left;
+    }
+    
+    .img-portfolio{
+        height: 150px;
+    }
 }
